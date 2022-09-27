@@ -1,0 +1,17 @@
+## FNF Specific
+source/states/menus/AchievementsMenuState.hx
+source/states/charting/OriginalWIP.hx
+art/crash-dialog/
+
+## FNF Setup Files
+art/gameBuildFiles/testRelease.bat
+art/gameBuildFiles/testDebug.bat
+art/gameBuildFiles/buildRelease.bat
+art/gameBuildFiles/buildDebug.bat
+
+## VSCode
+export/
+.vscode/
+APIStuff.hx
+docs/_build
+**/.DS_Store
